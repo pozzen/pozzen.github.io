@@ -1,0 +1,18 @@
+{
+	"name": "English",
+	"font": "Nunito",
+	"strings": {
+		"Backgamon": "Backgamon",
+		"Roll": "Roll",
+		"Play": "Play",
+		"Sound": "Sound",
+		"ON": "ON",
+		"OFF": "OFF",
+		"Fullscreen": "Fullscreen",
+		"Quit": "Quit",
+		"Resume": "Resume",
+		"Contacting Server": "Contacting server. Please wait...",
+		"Contacting Failed": "Failed to connect to server. If you wish to play online check your internet connection and restart the game.",
+		"OK": "OK"
+	}
+}
